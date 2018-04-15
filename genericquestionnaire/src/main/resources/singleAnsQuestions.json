@@ -1,0 +1,38 @@
+[
+  {
+    "questionDetails": {
+      "id": 3,
+      "questionText": "Q3",
+      "possibleAnswers": [
+        {
+          "number": 1,
+          "text": "TAK"
+        },
+        {
+          "number": 2,
+          "text": "NIE"
+        }
+      ]
+    }
+  },
+  {
+    "questionDetails": {
+      "id": 4,
+      "questionText": "Q4",
+      "possibleAnswers": [
+        {
+          "number": 1,
+          "text": "TAK"
+        },
+        {
+          "number": 2,
+          "text": "NIE"
+        },
+        {
+          "number": 2,
+          "text": "NIE MAM ZDANIA"
+        }
+      ]
+    }
+  }
+]
